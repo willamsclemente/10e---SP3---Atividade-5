@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/willams/Documentos/Curso-senai-fullstack/backend/LHPet/LHPet.csproj": {}
+  },
+  "projects": {
+    "/home/willams/Documentos/Curso-senai-fullstack/backend/LHPet/LHPet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/willams/Documentos/Curso-senai-fullstack/backend/LHPet/LHPet.csproj",
+        "projectName": "LHPet",
+        "projectPath": "/home/willams/Documentos/Curso-senai-fullstack/backend/LHPet/LHPet.csproj",
+        "packagesPath": "/home/willams/.nuget/packages/",
+        "outputPath": "/home/willams/Documentos/Curso-senai-fullstack/backend/LHPet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/willams/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/willams/.dotnet/sdk/6.0.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
